@@ -1,0 +1,19 @@
+# Ignore Dockerfile
+Dockerfile
+
+# Ignore start.hs
+start.hs
+
+# Ignore docker-compose file (if you have a specific name, include it)
+docker-compose.yml
+docker-compose.yaml
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all .rest files
+*.rest
+
+# Ignore node_modules directory
+node_modules/
+
